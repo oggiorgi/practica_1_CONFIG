@@ -7,9 +7,7 @@ line=$(printf "%${text_length}s" | tr ' ' '-')
 echo "+${line}+"
 echo "| ${text} |"
 echo "+${line}+"
-
-
-![image](https://github.com/user-attachments/assets/adce2975-f574-404a-b6ba-fdca9c27f2a6)
+![image](https://github.com/user-attachments/assets/d0b5c927-fa87-4166-8be1-b26c8365864f)
 
 
 
