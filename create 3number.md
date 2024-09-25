@@ -9,6 +9,8 @@ echo "| ${text} |"
 echo "+${line}+"
 
 
-![image](https://github.com/user-attachments/assets/1c58ae00-41e6-4af0-a545-8da9c12060fc)
+
+![image](https://github.com/user-attachments/assets/019cd5f5-69f1-4355-907b-bc88bd6c648e)
+
 
 
