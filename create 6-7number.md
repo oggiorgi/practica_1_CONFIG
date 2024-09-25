@@ -49,8 +49,8 @@ else
 	exit 1
 fi
 
-Скриншот - ![image](https://github.com/user-attachments/assets/9d3e47cf-f6d7-40b6-a46c-8d1a0723880b)
-__________________________
+![image](https://github.com/user-attachments/assets/9d3e47cf-f6d7-40b6-a46c-8d1a0723880b)
+
 
 **Задача 7**
 
@@ -94,8 +94,7 @@ if ! $found_duplicates; then
 	exit 1
 fi
 
-Скриншот - ![image](https://github.com/user-attachments/assets/188b4384-aae5-47eb-b0a8-6053b3e8f569)
-__________________________
+![image](https://github.com/user-attachments/assets/188b4384-aae5-47eb-b0a8-6053b3e8f569)
 
 
 
